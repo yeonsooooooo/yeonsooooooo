@@ -5,7 +5,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsooooooo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsooooooo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeonsooooooo&show_icons=true&theme=radical)
