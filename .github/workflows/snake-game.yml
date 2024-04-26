@@ -30,8 +30,8 @@ jobs:
 
     - name: Setup Git
       run: |
-        git config --global user.name 'your_username'
-        git config --global user.email 'your_email@example.com'
+        git config --global user.name 'yeonsooooooo'
+        git config --global user.email 'yskim80512@naver.com'
 
     - name: Commit and Push Generated Files
       run: |
