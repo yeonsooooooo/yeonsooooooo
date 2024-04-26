@@ -1,4 +1,10 @@
 ### Hi there 👋
+📊 GitHub 통계
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeonsooooooo&show_icons=true&theme=radical)
+
+
+
 
 <!--
 **yeonsooooooo/yeonsooooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
