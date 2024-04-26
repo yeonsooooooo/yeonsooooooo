@@ -10,8 +10,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+    - name: Create dist Directory
+      run: mkdir -p dist
     - name: generate-snake-game-from-github-contribution-grid
       uses: Platane/snk@v3.2.0
       with:
         github_user_name: yeonsooooooo
         svg_out_path: dist/github-snake.svg
+    - name: Commit and Push
+      run: |
+        git config --global user.name 'YOUR_GITHUB_USERNAME'
+        git config --global user.email 'YOUR_GITHUB_EMAIL'
+        git add dist/github-snake.svg
+        git commit -m "Add generated snake game"
+        git push
