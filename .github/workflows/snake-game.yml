@@ -33,8 +33,10 @@ jobs:
         git config --global user.name 'yeonsooooooo'
         git config --global user.email 'yskim80512@naver.com'
 
-    - name: Commit and Push Generated Files
+    - name: Commit and Push
       run: |
         git add dist/
-        git commit -m "Update GitHub Snake Game" || true  # 변경사항이 없을 경우를 대비해 || true를 추가합니다.
+        git commit -m "Update GitHub Snake Game"
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
