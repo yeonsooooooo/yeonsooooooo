@@ -23,8 +23,8 @@ jobs:
         svg_out_path: dist/github-snake.svg
     - name: Commit and Push
       run: |
-        git config --global user.name 'YOUR_GITHUB_USERNAME'
-        git config --global user.email 'YOUR_GITHUB_EMAIL'
+        git config --global user.name 'yeonsooooooo'
+        git config --global user.email 'yskim80512@naver.com'
         git add dist/github-snake.svg
         git commit -m "Add generated snake game"
         git push
