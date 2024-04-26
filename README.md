@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeonsooooooo/yeonsooooooo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeonsooooooo/yeonsooooooo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yeonsooooooo/yeonsooooooo/output/github-snake.svg" />
+</picture>
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=We+go+hard+%EB%B6%88%EC%B9%A8%EB%B2%88+%EB%B0%A4%EC%83%88+%EB%8B%AC%EB%A0%A4+%EC%B6%95%EC%A7%80%EB%B2%95)](https://git.io/typing-svg)
 
