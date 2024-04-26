@@ -1,30 +1,40 @@
-name: Generate Snake Game
+name: Generate GitHub Snake Game
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # 매일 자정에 실행
-  workflow_dispatch:
+  push:
+    branches:
+      - main  # 워크플로우가 트리거될 브랜치를 지정합니다. 'main' 브랜치로 설정했습니다.
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
     - uses: actions/checkout@v2
+
     - name: Setup Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: '14'
-    - name: Create dist Directory
-      run: mkdir -p dist
-    - name: generate-snake-game-from-github-contribution-grid
-      uses: Platane/snk@v3.2.0
+        node-version: '14'  # Node.js의 원하는 버전을 지정합니다.
+
+    - name: Generate Snake Game
+      uses: Platane/snk@v3
       with:
-        github_user_name: yeonsooooooo
-        svg_out_path: dist/github-snake.svg
-    - name: Commit and Push
+        github_user_name: ${{ github.repository_owner }}
+        outputs: |
+          dist/github-snake.svg
+          dist/github-snake-dark.svg?palette=github-dark
+          dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Setup Git
       run: |
-        git config --global user.name 'yeonsooooooo'
-        git config --global user.email 'yskim80512@naver.com'
-        git add dist/github-snake.svg
-        git commit -m "Add generated snake game"
+        git config --global user.name 'your_username'
+        git config --global user.email 'your_email@example.com'
+
+    - name: Commit and Push Generated Files
+      run: |
+        git add dist/
+        git commit -m "Update GitHub Snake Game" || true  # 변경사항이 없을 경우를 대비해 || true를 추가합니다.
         git push
