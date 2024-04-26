@@ -1,7 +1,8 @@
 ### Hi there 👋
 📊 GitHub 통계
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeonsooooooo&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeonsooooooo&show_icons=true&theme=radical)
+
 
 
 
