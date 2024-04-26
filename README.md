@@ -1,5 +1,12 @@
 ### Hi there 👋
-📊 GitHub 통계
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=We+go+hard+%EB%B6%88%EC%B9%A8%EB%B2%88+%EB%B0%A4%EC%83%88+%EB%8B%AC%EB%A0%A4+%EC%B6%95%EC%A7%80%EB%B2%95)](https://git.io/typing-svg)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsooooooo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeonsooooooo&show_icons=true&theme=radical)
 
