@@ -5,10 +5,10 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsooooooo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsooooooo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)](url)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeonsooooooo&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeonsooooooo&show_icons=true&theme=radical)](url)
 
 
 
