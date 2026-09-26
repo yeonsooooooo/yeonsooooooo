@@ -5,6 +5,7 @@ import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import config from '../profile.config.mjs';
 import { themes, num } from './lib/svg.mjs';
 import { hero } from './cards/hero.mjs';
+import { arcade } from './cards/arcade.mjs';
 import { stack } from './cards/stack.mjs';
 import { skyline } from './cards/skyline.mjs';
 import { timeline } from './cards/timeline.mjs';
@@ -25,6 +26,7 @@ const slug = (s) => s.replace(/[^a-z0-9]+/gi, '-').toLowerCase();
 
 const cards = {
   hero: (t) => hero({ t, stats, config, now }),
+  arcade: (t) => arcade({ t, stats, config }),
   stack: (t) => stack({ t, stats, config }),
   skyline: (t) => skyline({ t, stats, config }),
   timeline: (t) => timeline({ t, config }),

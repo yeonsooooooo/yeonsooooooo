@@ -16,6 +16,11 @@
 </p>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeonsooooooo/yeonsooooooo/main/assets/arcade-dark.svg">
+  <img alt="Commit Breakout: a self-playing Breakout game where every brick is a real day of commits from the last year, private repositories included. The busiest day is a golden brick that triggers multiball, the start of the current streak triggers fireball, and the score counts up to the year's commit total." src="https://raw.githubusercontent.com/yeonsooooooo/yeonsooooooo/main/assets/arcade-light.svg" width="100%">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeonsooooooo/yeonsooooooo/main/assets/stack-dark.svg">
   <img alt="Exploded isometric view of the stack I build: silicon, edge, core, surface and intelligence layers, with repository counts and commits per layer." src="https://raw.githubusercontent.com/yeonsooooooo/yeonsooooooo/main/assets/stack-light.svg" width="100%">
 </picture>
@@ -53,6 +58,7 @@
 | step | what happens |
 | --- | --- |
 | `collect.mjs` | Every night at 00:17 KST, GitHub GraphQL reads every repo I own. Private repos are reduced to counts, histograms and language bytes; their names never leave the runner. |
+| `breakout.mjs` | The commit calendar becomes a Breakout level and the whole game is simulated offline: ball physics, an aiming paddle, multiball on the busiest day, fireball on the day the current streak began. The SVG just replays the result as CSS + SMIL keyframes. |
 | `render.mjs` | Hand-rolled SVGs, dark + light, zero dependencies and no third-party widgets. The CSS and SMIL animations are the only moving parts GitHub allows inside `<img>`. |
 | `$ <command>` | Open an issue whose title starts with `$`. `shell.yml` runs the command from an allowlist, replies, closes the issue and appends to `~/.visitor_history`. |
 | `profile.json` · `llms.txt` | The same profile for agents: `curl -s https://raw.githubusercontent.com/yeonsooooooo/yeonsooooooo/main/profile.json \| jq .activity` |
