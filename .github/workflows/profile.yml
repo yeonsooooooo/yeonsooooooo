@@ -31,7 +31,7 @@ jobs:
       - name: Collect
         run: node scripts/collect.mjs
         env:
-          GH_PAT: ${{ secrets.GH_PAT || secrets.CUSTOM_GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
 
       - name: Render and publish
         run: |

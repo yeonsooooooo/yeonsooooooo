@@ -26,6 +26,6 @@
 <text x="24" y="86" class="dim in" style="animation-delay:1.07s"># open an issue titled "$ &lt;command&gt;" — GitHub Actions runs it and replies in ~30s</text>
 <text x="24" y="120" class="in" style="animation-delay:1.17s" xml:space="preserve"><tspan class="faint">[09-26 18:13]</tspan>  <tspan class="blue">@yeonsooooooo</tspan><tspan x="330" class="purple b">❯</tspan> <tspan class="">fortune</tspan><tspan x="512" class="dim">→ 平 평 · 리뷰운 ★★★★☆</tspan></text>
 <line x1="24" y1="142" x2="876" y2="142" stroke="#d0d7de" stroke-dasharray="2 4"/>
-<text x="24" y="164" class="dim" style="font-size:12px">1 commands · 1 visitors · since 2026-09-26</text>
+<text x="24" y="164" class="dim" style="font-size:12px">1 command · 1 visitor · since 2026-09-26</text>
 <text x="876" y="164" text-anchor="end" style="font-size:12px"><tspan class="green b">guest@seoul</tspan><tspan class="purple b"> ~ ❯ </tspan><tspan class="blink">█</tspan></text>
 </svg>

@@ -14,6 +14,8 @@ function clip(text, cols) {
   return out;
 }
 
+const plural = (n, word) => `${num(n)} ${word}${n === 1 ? '' : 's'}`;
+
 export function shell({ t, history, config }) {
   const W = 900;
   const rows = history.entries.slice(-7).reverse();
@@ -46,7 +48,7 @@ export function shell({ t, history, config }) {
   y += 14;
   body.push(`<line x1="24" y1="${y - 16}" x2="876" y2="${y - 16}" stroke="${t.border}" stroke-dasharray="2 4"/>`);
   const since = history.since ? stamp(new Date(history.since), config.tzOffsetHours).date : '—';
-  body.push(`<text x="24" y="${y + 6}" class="dim" style="font-size:12px">${num(history.total)} commands · ${num(history.visitors.length)} visitors · since ${since}</text>`);
+  body.push(`<text x="24" y="${y + 6}" class="dim" style="font-size:12px">${plural(history.total, 'command')} · ${plural(history.visitors.length, 'visitor')} · since ${since}</text>`);
   body.push(`<text x="876" y="${y + 6}" text-anchor="end" style="font-size:12px"><tspan class="green b">guest@${esc(config.host)}</tspan><tspan class="purple b"> ~ ❯ </tspan><tspan class="blink">█</tspan></text>`);
 
   return frame({
