@@ -17,8 +17,8 @@
     {
       "layer": "surface",
       "tech": "Next.js dashboards · React Native · SwiftUI · Flutter",
-      "repos": 40,
-      "commitsLastYear": 1075
+      "repos": 41,
+      "commitsLastYear": 1077
     },
     {
       "layer": "core",
@@ -54,7 +54,7 @@
     },
     {
       "language": "Python",
-      "sharePct": 3.1
+      "sharePct": 3
     },
     {
       "language": "HTML",
@@ -66,8 +66,8 @@
     }
   ],
   "activity": {
-    "commitsLastYear": 2416,
-    "commitsAllTime": 4733,
+    "commitsLastYear": 2418,
+    "commitsAllTime": 4735,
     "activeDaysLastYear": 314,
     "currentStreakDays": 59,
     "repositories": {
@@ -159,5 +159,5 @@
       "event": "init: hello, world"
     }
   ],
-  "updatedAt": "2026-09-26T08:12:42.227Z"
+  "updatedAt": "2026-09-26T09:11:23.607Z"
 }

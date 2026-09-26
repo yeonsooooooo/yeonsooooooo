@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T08:12:42.227Z",
+  "generatedAt": "2026-09-26T09:11:23.607Z",
   "mode": "full",
   "user": {
     "login": "yeonsooooooo",
@@ -10,20 +10,20 @@
     "followers": 5,
     "following": 7
   },
-  "publicContributions": 14,
+  "publicContributions": 15,
   "repos": {
     "total": 87,
     "public": 22,
     "private": 65,
     "archived": 0,
-    "pushedWeek": 14,
-    "pushedMonth": 21,
+    "pushedWeek": 15,
+    "pushedMonth": 22,
     "createdThisYear": 31,
     "stars": 0
   },
   "commits": {
-    "year": 2416,
-    "allTime": 4733,
+    "year": 2418,
+    "allTime": 4735,
     "activeDays": 314,
     "longestStreak": 59,
     "currentStreak": 59,
@@ -51,8 +51,8 @@
       175,
       234,
       267,
-      218,
-      151,
+      219,
+      152,
       128,
       137,
       123,
@@ -66,7 +66,7 @@
       359,
       321,
       325,
-      366
+      368
     ],
     "calendar": {
       "start": "2025-09-21",
@@ -441,7 +441,7 @@
         40,
         22,
         12,
-        35
+        37
       ]
     }
   },
@@ -456,15 +456,15 @@
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "bytes": 38559424,
+      "bytes": 38609081,
       "repos": 36,
-      "pct": 21.2
+      "pct": 21.3
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "bytes": 23702457,
-      "repos": 50,
+      "bytes": 23778138,
+      "repos": 51,
       "pct": 13.1
     },
     {
@@ -655,7 +655,7 @@
     {
       "name": "Python",
       "color": "#3572A5",
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "HTML",
@@ -745,19 +745,19 @@
       "commits": 344
     },
     "surface": {
-      "repos": 40,
-      "active": 11,
-      "commits": 1075
+      "repos": 41,
+      "active": 12,
+      "commits": 1077
     },
     "other": {
-      "repos": 4,
+      "repos": 3,
       "active": 0,
       "commits": 0
     }
   },
   "windows": [
     {
-      "pushedDays": 1348,
+      "pushedDays": 1349,
       "layer": "other"
     },
     {
@@ -845,8 +845,8 @@
       "layer": "intelligence"
     },
     {
-      "pushedDays": 881,
-      "layer": "other"
+      "pushedDays": 0,
+      "layer": "surface"
     },
     {
       "pushedDays": 845,
@@ -929,7 +929,7 @@
       "layer": "core"
     },
     {
-      "pushedDays": 435,
+      "pushedDays": 436,
       "layer": "silicon"
     },
     {
@@ -969,7 +969,7 @@
       "layer": "intelligence"
     },
     {
-      "pushedDays": 291,
+      "pushedDays": 292,
       "layer": "surface"
     },
     {
@@ -1005,7 +1005,7 @@
       "layer": "edge"
     },
     {
-      "pushedDays": 141,
+      "pushedDays": 142,
       "layer": "edge"
     },
     {
@@ -1107,6 +1107,13 @@
   ],
   "publicRepos": [
     {
+      "name": "yeonsooooooo",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "pushedAt": "2026-09-26T09:02:59Z"
+    },
+    {
       "name": "rms-link",
       "description": null,
       "language": "JavaScript",
@@ -1140,13 +1147,6 @@
       "language": "Python",
       "stars": 0,
       "pushedAt": "2024-06-02T15:07:05Z"
-    },
-    {
-      "name": "yeonsooooooo",
-      "description": null,
-      "language": null,
-      "stars": 0,
-      "pushedAt": "2024-04-28T02:16:32Z"
     },
     {
       "name": "llama-fine-tuning",
