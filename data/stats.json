@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T09:15:01.157Z",
+  "generatedAt": "2026-09-26T10:13:45.050Z",
   "mode": "full",
   "user": {
     "login": "yeonsooooooo",
@@ -10,7 +10,7 @@
     "followers": 5,
     "following": 7
   },
-  "publicContributions": 17,
+  "publicContributions": 18,
   "repos": {
     "total": 87,
     "public": 22,
@@ -22,8 +22,8 @@
     "stars": 0
   },
   "commits": {
-    "year": 2419,
-    "allTime": 4736,
+    "year": 2424,
+    "allTime": 4741,
     "activeDays": 314,
     "longestStreak": 59,
     "currentStreak": 59,
@@ -51,9 +51,9 @@
       175,
       234,
       267,
-      219,
-      153,
-      128,
+      221,
+      155,
+      129,
       137,
       123,
       80,
@@ -66,7 +66,7 @@
       359,
       321,
       325,
-      369
+      374
     ],
     "calendar": {
       "start": "2025-09-21",
@@ -441,7 +441,7 @@
         40,
         22,
         12,
-        38
+        43
       ]
     }
   },
@@ -451,19 +451,19 @@
       "color": "#3572A5",
       "bytes": 110372857,
       "repos": 29,
-      "pct": 60.8
+      "pct": 60.7
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "bytes": 38609081,
+      "bytes": 38663456,
       "repos": 36,
       "pct": 21.3
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "bytes": 23778219,
+      "bytes": 23805430,
       "repos": 51,
       "pct": 13.1
     },
@@ -512,7 +512,7 @@
     {
       "name": "PLpgSQL",
       "color": "#336790",
-      "bytes": 517995,
+      "bytes": 532367,
       "repos": 5,
       "pct": 0.3
     },
@@ -680,7 +680,7 @@
     {
       "name": "PLpgSQL",
       "color": "#336790",
-      "pct": 0.4
+      "pct": 0.5
     },
     {
       "name": "Swift",
@@ -742,12 +742,12 @@
     "core": {
       "repos": 8,
       "active": 5,
-      "commits": 344
+      "commits": 346
     },
     "surface": {
       "repos": 41,
       "active": 12,
-      "commits": 1078
+      "commits": 1081
     },
     "other": {
       "repos": 3,
@@ -765,7 +765,7 @@
       "layer": "surface"
     },
     {
-      "pushedDays": 1242,
+      "pushedDays": 1243,
       "layer": "other"
     },
     {
@@ -861,7 +861,7 @@
       "layer": "intelligence"
     },
     {
-      "pushedDays": 588,
+      "pushedDays": 589,
       "layer": "intelligence"
     },
     {
@@ -961,7 +961,7 @@
       "layer": "surface"
     },
     {
-      "pushedDays": 13,
+      "pushedDays": 14,
       "layer": "core"
     },
     {
@@ -989,11 +989,11 @@
       "layer": "surface"
     },
     {
-      "pushedDays": 2,
+      "pushedDays": 3,
       "layer": "surface"
     },
     {
-      "pushedDays": 101,
+      "pushedDays": 102,
       "layer": "surface"
     },
     {
@@ -1021,7 +1021,7 @@
       "layer": "surface"
     },
     {
-      "pushedDays": 92,
+      "pushedDays": 93,
       "layer": "surface"
     },
     {
@@ -1037,7 +1037,7 @@
       "layer": "intelligence"
     },
     {
-      "pushedDays": 61,
+      "pushedDays": 62,
       "layer": "surface"
     },
     {
@@ -1111,7 +1111,7 @@
       "description": null,
       "language": "JavaScript",
       "stars": 0,
-      "pushedAt": "2026-09-26T09:14:33Z"
+      "pushedAt": "2026-09-26T10:13:17Z"
     },
     {
       "name": "rms-link",

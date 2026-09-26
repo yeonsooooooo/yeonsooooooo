@@ -2,7 +2,7 @@
 
 > I build the operating system for unmanned hotels — from PCB firmware to LLMs.
 
-Based in Seoul, KR. 2,419 commits in the last year across 87 repositories (65 private; the public contribution graph shows only 17).
+Based in Seoul, KR. 2,424 commits in the last year across 87 repositories (65 private; the public contribution graph shows only 18).
 
 ## Stack, top to bottom
 - intelligence: LLM · RAG · vision · speech-to-text · forecasting (16 repos)
