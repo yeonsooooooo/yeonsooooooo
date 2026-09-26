@@ -1,1 +1,16 @@
-{"total":0,"since":null,"visitors":[],"entries":[]}
+{
+  "total": 1,
+  "since": "2026-09-26T09:13:16.356Z",
+  "visitors": [
+    "yeonsooooooo"
+  ],
+  "entries": [
+    {
+      "login": "yeonsooooooo",
+      "cmd": "fortune",
+      "summary": "平 평 · 리뷰운 ★★★★☆",
+      "unknown": false,
+      "at": "2026-09-26T09:13:16.356Z"
+    }
+  ]
+}

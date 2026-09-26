@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-label="Visitor shell: 0 commands run by 0 visitors. Open an issue titled &quot;$ fortune&quot; to run one.">
-<title>Visitor shell: 0 commands run by 0 visitors. Open an issue titled &quot;$ fortune&quot; to run one.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-label="Visitor shell: 1 commands run by 1 visitors. Open an issue titled &quot;$ fortune&quot; to run one.">
+<title>Visitor shell: 1 commands run by 1 visitors. Open an issue titled &quot;$ fortune&quot; to run one.</title>
 <style>
   text{font-family:ui-monospace, 'SF Mono', SFMono-Regular, Menlo, 'JetBrains Mono', 'Cascadia Code', Consolas, 'D2Coding', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', 'Liberation Mono', monospace;font-size:13.5px;fill:#e6edf3}
   .dim{fill:#7d8590} .faint{fill:#3d444d} .b{font-weight:700}
@@ -22,11 +22,10 @@
 <circle cx="20" cy="18" r="6" fill="#ff5f57"/><circle cx="40" cy="18" r="6" fill="#febc2e"/><circle cx="60" cy="18" r="6" fill="#28c840"/>
 <text x="450" y="22.5" text-anchor="middle" class="title">~/.visitor_history</text>
 <text x="24" y="62"><tspan class="green b">~</tspan><tspan class="purple b"> ❯</tspan></text>
-<clipPath id="ty4"><rect x="58" y="48" height="20" width="215.4"><animate attributeName="width" values="0.0;8.1;16.3;24.4;32.5;40.7;48.8;56.9;65.0;73.2;81.3;89.4;97.6;105.7;113.8;122.0;130.1;138.2;146.3;154.5;162.6;170.7;178.9;187.0;195.1;203.3;211.4" dur="0.87s" begin="0.2s" fill="freeze" calcMode="discrete"/><set attributeName="width" to="0" begin="0s" dur="0.2s"/></rect></clipPath><text x="58" y="62" class="" clip-path="url(#ty4)" xml:space="preserve">tail -f ~/.visitor_history</text>
+<clipPath id="ty0"><rect x="58" y="48" height="20" width="215.4"><animate attributeName="width" values="0.0;8.1;16.3;24.4;32.5;40.7;48.8;56.9;65.0;73.2;81.3;89.4;97.6;105.7;113.8;122.0;130.1;138.2;146.3;154.5;162.6;170.7;178.9;187.0;195.1;203.3;211.4" dur="0.87s" begin="0.2s" fill="freeze" calcMode="discrete"/><set attributeName="width" to="0" begin="0s" dur="0.2s"/></rect></clipPath><text x="58" y="62" class="" clip-path="url(#ty0)" xml:space="preserve">tail -f ~/.visitor_history</text>
 <text x="24" y="86" class="dim in" style="animation-delay:1.07s"># open an issue titled "$ &lt;command&gt;" — GitHub Actions runs it and replies in ~30s</text>
-<text x="24" y="120" class="dim in" style="animation-delay:1.17s">(empty) no one has run a command yet — be the first. try the buttons below ↓</text>
-<text x="24" y="144" class="dim in" style="animation-delay:1.27s">        $ fortune → your 개발 운세 for today, seeded by your login</text>
-<line x1="24" y1="166" x2="876" y2="166" stroke="#30363d" stroke-dasharray="2 4"/>
-<text x="24" y="188" class="dim" style="font-size:12px">0 commands · 0 visitors · since —</text>
-<text x="876" y="188" text-anchor="end" style="font-size:12px"><tspan class="green b">guest@seoul</tspan><tspan class="purple b"> ~ ❯ </tspan><tspan class="blink">█</tspan></text>
+<text x="24" y="120" class="in" style="animation-delay:1.17s" xml:space="preserve"><tspan class="faint">[09-26 18:13]</tspan>  <tspan class="blue">@yeonsooooooo</tspan><tspan x="330" class="purple b">❯</tspan> <tspan class="">fortune</tspan><tspan x="512" class="dim">→ 平 평 · 리뷰운 ★★★★☆</tspan></text>
+<line x1="24" y1="142" x2="876" y2="142" stroke="#30363d" stroke-dasharray="2 4"/>
+<text x="24" y="164" class="dim" style="font-size:12px">1 commands · 1 visitors · since 2026-09-26</text>
+<text x="876" y="164" text-anchor="end" style="font-size:12px"><tspan class="green b">guest@seoul</tspan><tspan class="purple b"> ~ ❯ </tspan><tspan class="blink">█</tspan></text>
 </svg>
