@@ -1,0 +1,47 @@
+# The visitor shell: an issue titled "$ <command>" gets an answer, closes itself,
+# and lands in ~/.visitor_history. The title never touches a shell — scripts/shell.mjs
+# reads it from the event payload and matches it against an allowlist.
+name: shell
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  run:
+    if: startsWith(github.event.issue.title, '$')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: 22
+
+      - name: Reply
+        run: node scripts/shell.mjs reply
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Record and publish
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git fetch --quiet origin main
+            git reset --quiet --hard origin/main
+            node scripts/shell.mjs record
+            node scripts/render.mjs --only shell
+            git add data/history.json assets/shell-dark.svg assets/shell-light.svg
+            git diff --cached --quiet && exit 0
+            git commit --quiet -m "shell: visitor command from #${ISSUE} [skip ci]"
+            git push --quiet origin HEAD:main && exit 0
+            sleep $((attempt * 2 + RANDOM % 3))
+          done
+          exit 1
+        env:
+          ISSUE: ${{ github.event.issue.number }}

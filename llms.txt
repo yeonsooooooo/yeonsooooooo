@@ -1,0 +1,47 @@
+# Yeonsoo Kim (김연수) — github.com/yeonsooooooo
+
+> I build the operating system for unmanned hotels — from PCB firmware to LLMs.
+
+Based in Seoul, KR. 2,416 commits in the last year across 87 repositories (65 private; the public contribution graph shows only 14).
+
+## Stack, top to bottom
+- intelligence: LLM · RAG · vision · speech-to-text · forecasting (16 repos)
+- surface: Next.js dashboards · React Native · SwiftUI · Flutter (40 repos)
+- core: NestJS · MySQL · schedulers · payments · PMS (8 repos)
+- edge: touch kiosks (Electron) · Android agents · RPA (14 repos)
+- silicon: 30-ch PCB firmware · RTSP / WebRTC camera relay (5 repos)
+
+## Writing right now (share of this year's commits)
+- TypeScript: 61%
+- JavaScript: 26.5%
+- Kotlin: 3.8%
+- Python: 3.1%
+- HTML: 1.6%
+- Java: 1.4%
+
+## Timeline
+- 2026-09: feat(kiosk): 24" vertical kiosk v2 · desktop PMS · sales HQ
+- 2026-08: feat(ota): direct-booking OTA — NestJS backend · admin · RN/Expo app
+- 2026-06: feat(ops): overbooking · SLA · finalize monitoring dashboards
+- 2026-05: feat(rpa): Windows RPA + screen-record agents
+- 2026-01: feat(android): alarm & ID-verification agents in Kotlin
+- 2025-12: feat(hw): 30-channel PCB firmware (C++)
+- 2025-08: feat(remote): remote management platform for unmanned motels
+- 2025-07: feat(stream): RTSP → WebRTC relay for room cameras
+- 2025-04: feat(kiosk): unmanned check-in kiosk v1 ships
+- 2025-02: feat(vision): face recognition → guest verification
+- 2025-02: feat(hotel-os): worker app (Flutter) + management web
+- 2024-06: feat(agents): LangChain · LangGraph
+- 2024-05: feat(fortune): 사주 AI app, deployed
+- 2024-04: feat(llm): llama fine-tuning · transformer from scratch
+- 2024-02: feat(rag): domain LLM + RAG chatbot
+- 2023-11: merge: 멋쟁이사자처럼 · SW hackathon · table-order app
+- 2023-07: feat(embedded): 임베디드 SW 경진대회 · car suspension
+- 2023-06: chore: C++ on real hardware
+- 2023-04: feat(web): first Django + React services
+- 2023-01: init: hello, world
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/%EC%97%B0%EC%88%98-%EA%B9%80-8b8b512bb
+
+Structured version: https://raw.githubusercontent.com/yeonsooooooo/yeonsooooooo/main/profile.json

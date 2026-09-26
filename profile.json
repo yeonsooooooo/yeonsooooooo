@@ -1,0 +1,163 @@
+{
+  "name": "Yeonsoo Kim (김연수)",
+  "github": "yeonsooooooo",
+  "location": "Seoul, KR",
+  "tagline": "I build the operating system for unmanned hotels — from PCB firmware to LLMs.",
+  "links": {
+    "github": "https://github.com/yeonsooooooo",
+    "linkedin": "https://www.linkedin.com/in/%EC%97%B0%EC%88%98-%EA%B9%80-8b8b512bb"
+  },
+  "stack": [
+    {
+      "layer": "intelligence",
+      "tech": "LLM · RAG · vision · speech-to-text · forecasting",
+      "repos": 16,
+      "commitsLastYear": 35
+    },
+    {
+      "layer": "surface",
+      "tech": "Next.js dashboards · React Native · SwiftUI · Flutter",
+      "repos": 40,
+      "commitsLastYear": 1075
+    },
+    {
+      "layer": "core",
+      "tech": "NestJS · MySQL · schedulers · payments · PMS",
+      "repos": 8,
+      "commitsLastYear": 344
+    },
+    {
+      "layer": "edge",
+      "tech": "touch kiosks (Electron) · Android agents · RPA",
+      "repos": 14,
+      "commitsLastYear": 957
+    },
+    {
+      "layer": "silicon",
+      "tech": "30-ch PCB firmware · RTSP / WebRTC camera relay",
+      "repos": 5,
+      "commitsLastYear": 5
+    }
+  ],
+  "writing": [
+    {
+      "language": "TypeScript",
+      "sharePct": 61
+    },
+    {
+      "language": "JavaScript",
+      "sharePct": 26.5
+    },
+    {
+      "language": "Kotlin",
+      "sharePct": 3.8
+    },
+    {
+      "language": "Python",
+      "sharePct": 3.1
+    },
+    {
+      "language": "HTML",
+      "sharePct": 1.6
+    },
+    {
+      "language": "Java",
+      "sharePct": 1.4
+    }
+  ],
+  "activity": {
+    "commitsLastYear": 2416,
+    "commitsAllTime": 4733,
+    "activeDaysLastYear": 314,
+    "currentStreakDays": 59,
+    "repositories": {
+      "total": 87,
+      "public": 22,
+      "private": 65
+    },
+    "note": "Counts include private repositories; names of private repositories are intentionally omitted."
+  },
+  "timeline": [
+    {
+      "date": "2026-09",
+      "event": "feat(kiosk): 24\" vertical kiosk v2 · desktop PMS · sales HQ"
+    },
+    {
+      "date": "2026-08",
+      "event": "feat(ota): direct-booking OTA — NestJS backend · admin · RN/Expo app"
+    },
+    {
+      "date": "2026-06",
+      "event": "feat(ops): overbooking · SLA · finalize monitoring dashboards"
+    },
+    {
+      "date": "2026-05",
+      "event": "feat(rpa): Windows RPA + screen-record agents"
+    },
+    {
+      "date": "2026-01",
+      "event": "feat(android): alarm & ID-verification agents in Kotlin"
+    },
+    {
+      "date": "2025-12",
+      "event": "feat(hw): 30-channel PCB firmware (C++)"
+    },
+    {
+      "date": "2025-08",
+      "event": "feat(remote): remote management platform for unmanned motels"
+    },
+    {
+      "date": "2025-07",
+      "event": "feat(stream): RTSP → WebRTC relay for room cameras"
+    },
+    {
+      "date": "2025-04",
+      "event": "feat(kiosk): unmanned check-in kiosk v1 ships"
+    },
+    {
+      "date": "2025-02",
+      "event": "feat(vision): face recognition → guest verification"
+    },
+    {
+      "date": "2025-02",
+      "event": "feat(hotel-os): worker app (Flutter) + management web"
+    },
+    {
+      "date": "2024-06",
+      "event": "feat(agents): LangChain · LangGraph"
+    },
+    {
+      "date": "2024-05",
+      "event": "feat(fortune): 사주 AI app, deployed"
+    },
+    {
+      "date": "2024-04",
+      "event": "feat(llm): llama fine-tuning · transformer from scratch"
+    },
+    {
+      "date": "2024-02",
+      "event": "feat(rag): domain LLM + RAG chatbot"
+    },
+    {
+      "date": "2023-11",
+      "event": "merge: 멋쟁이사자처럼 · SW hackathon · table-order app"
+    },
+    {
+      "date": "2023-07",
+      "event": "feat(embedded): 임베디드 SW 경진대회 · car suspension"
+    },
+    {
+      "date": "2023-06",
+      "event": "chore: C++ on real hardware"
+    },
+    {
+      "date": "2023-04",
+      "event": "feat(web): first Django + React services"
+    },
+    {
+      "date": "2023-01",
+      "event": "init: hello, world"
+    }
+  ],
+  "updatedAt": "2026-09-26T08:12:42.227Z"
+}

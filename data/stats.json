@@ -1,0 +1,1264 @@
+{
+  "generatedAt": "2026-09-26T08:12:42.227Z",
+  "mode": "full",
+  "user": {
+    "login": "yeonsooooooo",
+    "name": null,
+    "bio": "안녕하세요, 김연수입니다.",
+    "location": "서울",
+    "createdAt": "2023-01-16T08:39:41Z",
+    "followers": 5,
+    "following": 7
+  },
+  "publicContributions": 14,
+  "repos": {
+    "total": 87,
+    "public": 22,
+    "private": 65,
+    "archived": 0,
+    "pushedWeek": 14,
+    "pushedMonth": 21,
+    "createdThisYear": 31,
+    "stars": 0
+  },
+  "commits": {
+    "year": 2416,
+    "allTime": 4733,
+    "activeDays": 314,
+    "longestStreak": 59,
+    "currentStreak": 59,
+    "busiest": {
+      "date": "2026-09-05",
+      "count": 72
+    },
+    "peakHour": 16,
+    "nightOwlPct": 10,
+    "hours": [
+      22,
+      18,
+      6,
+      24,
+      42,
+      48,
+      89,
+      77,
+      46,
+      59,
+      73,
+      97,
+      111,
+      131,
+      175,
+      234,
+      267,
+      218,
+      151,
+      128,
+      137,
+      123,
+      80,
+      60
+    ],
+    "weekdays": [
+      392,
+      344,
+      309,
+      359,
+      321,
+      325,
+      366
+    ],
+    "calendar": {
+      "start": "2025-09-21",
+      "days": [
+        1,
+        13,
+        9,
+        6,
+        2,
+        2,
+        10,
+        42,
+        0,
+        4,
+        6,
+        10,
+        0,
+        1,
+        0,
+        0,
+        0,
+        9,
+        6,
+        0,
+        9,
+        0,
+        0,
+        2,
+        1,
+        5,
+        2,
+        3,
+        1,
+        2,
+        1,
+        1,
+        2,
+        0,
+        0,
+        2,
+        0,
+        3,
+        15,
+        16,
+        20,
+        0,
+        0,
+        2,
+        3,
+        17,
+        18,
+        5,
+        1,
+        9,
+        3,
+        0,
+        6,
+        11,
+        4,
+        1,
+        7,
+        3,
+        5,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        10,
+        3,
+        10,
+        11,
+        10,
+        6,
+        13,
+        3,
+        13,
+        4,
+        2,
+        9,
+        3,
+        15,
+        6,
+        10,
+        0,
+        1,
+        2,
+        0,
+        1,
+        0,
+        1,
+        0,
+        4,
+        5,
+        3,
+        3,
+        4,
+        9,
+        1,
+        2,
+        1,
+        10,
+        6,
+        0,
+        0,
+        2,
+        16,
+        19,
+        6,
+        2,
+        10,
+        10,
+        6,
+        4,
+        9,
+        13,
+        11,
+        0,
+        4,
+        0,
+        11,
+        1,
+        2,
+        5,
+        26,
+        10,
+        20,
+        1,
+        0,
+        7,
+        14,
+        6,
+        0,
+        7,
+        19,
+        4,
+        3,
+        15,
+        13,
+        3,
+        1,
+        2,
+        0,
+        2,
+        1,
+        1,
+        14,
+        12,
+        2,
+        7,
+        9,
+        12,
+        0,
+        4,
+        4,
+        6,
+        6,
+        9,
+        3,
+        2,
+        14,
+        11,
+        8,
+        9,
+        4,
+        13,
+        0,
+        1,
+        5,
+        2,
+        0,
+        1,
+        4,
+        2,
+        9,
+        0,
+        8,
+        4,
+        7,
+        10,
+        11,
+        12,
+        2,
+        7,
+        2,
+        2,
+        3,
+        3,
+        1,
+        0,
+        5,
+        3,
+        6,
+        4,
+        7,
+        13,
+        2,
+        6,
+        0,
+        9,
+        4,
+        5,
+        13,
+        2,
+        3,
+        5,
+        21,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        18,
+        2,
+        13,
+        7,
+        1,
+        1,
+        10,
+        13,
+        17,
+        1,
+        0,
+        0,
+        21,
+        6,
+        3,
+        6,
+        7,
+        4,
+        6,
+        0,
+        0,
+        2,
+        1,
+        4,
+        5,
+        10,
+        0,
+        8,
+        6,
+        4,
+        22,
+        1,
+        0,
+        6,
+        0,
+        1,
+        0,
+        0,
+        2,
+        0,
+        3,
+        4,
+        0,
+        1,
+        2,
+        2,
+        1,
+        6,
+        0,
+        0,
+        1,
+        7,
+        8,
+        3,
+        5,
+        8,
+        5,
+        7,
+        9,
+        4,
+        6,
+        0,
+        2,
+        7,
+        1,
+        6,
+        10,
+        9,
+        6,
+        7,
+        2,
+        7,
+        7,
+        2,
+        1,
+        11,
+        4,
+        4,
+        6,
+        5,
+        0,
+        10,
+        4,
+        0,
+        1,
+        9,
+        4,
+        2,
+        2,
+        4,
+        12,
+        4,
+        6,
+        1,
+        9,
+        2,
+        4,
+        7,
+        11,
+        2,
+        1,
+        0,
+        2,
+        2,
+        3,
+        13,
+        6,
+        5,
+        8,
+        10,
+        5,
+        17,
+        9,
+        9,
+        6,
+        3,
+        19,
+        7,
+        5,
+        28,
+        7,
+        2,
+        14,
+        1,
+        16,
+        9,
+        6,
+        14,
+        2,
+        1,
+        12,
+        13,
+        6,
+        13,
+        1,
+        8,
+        7,
+        16,
+        40,
+        72,
+        37,
+        25,
+        9,
+        3,
+        6,
+        2,
+        27,
+        3,
+        31,
+        45,
+        22,
+        23,
+        1,
+        3,
+        21,
+        18,
+        6,
+        40,
+        22,
+        12,
+        35
+      ]
+    }
+  },
+  "languages": [
+    {
+      "name": "Python",
+      "color": "#3572A5",
+      "bytes": 110372857,
+      "repos": 29,
+      "pct": 60.8
+    },
+    {
+      "name": "TypeScript",
+      "color": "#3178c6",
+      "bytes": 38559424,
+      "repos": 36,
+      "pct": 21.2
+    },
+    {
+      "name": "JavaScript",
+      "color": "#f1e05a",
+      "bytes": 23702457,
+      "repos": 50,
+      "pct": 13.1
+    },
+    {
+      "name": "Kotlin",
+      "color": "#A97BFF",
+      "bytes": 2253732,
+      "repos": 9,
+      "pct": 1.2
+    },
+    {
+      "name": "HTML",
+      "color": "#e34c26",
+      "bytes": 1341344,
+      "repos": 28,
+      "pct": 0.7
+    },
+    {
+      "name": "C",
+      "color": "#555555",
+      "bytes": 1024473,
+      "repos": 1,
+      "pct": 0.6
+    },
+    {
+      "name": "Java",
+      "color": "#b07219",
+      "bytes": 801515,
+      "repos": 5,
+      "pct": 0.4
+    },
+    {
+      "name": "Shell",
+      "color": "#89e051",
+      "bytes": 741243,
+      "repos": 27,
+      "pct": 0.4
+    },
+    {
+      "name": "C++",
+      "color": "#f34b7d",
+      "bytes": 719753,
+      "repos": 3,
+      "pct": 0.4
+    },
+    {
+      "name": "PLpgSQL",
+      "color": "#336790",
+      "bytes": 517995,
+      "repos": 5,
+      "pct": 0.3
+    },
+    {
+      "name": "CSS",
+      "color": "#663399",
+      "bytes": 509700,
+      "repos": 37,
+      "pct": 0.3
+    },
+    {
+      "name": "Cython",
+      "color": "#fedf5b",
+      "bytes": 320046,
+      "repos": 1,
+      "pct": 0.2
+    },
+    {
+      "name": "Swift",
+      "color": "#F05138",
+      "bytes": 230058,
+      "repos": 8,
+      "pct": 0.1
+    },
+    {
+      "name": "C#",
+      "color": "#7355dd",
+      "bytes": 153014,
+      "repos": 2,
+      "pct": 0.1
+    },
+    {
+      "name": "PowerShell",
+      "color": "#012456",
+      "bytes": 81646,
+      "repos": 8,
+      "pct": 0
+    },
+    {
+      "name": "Fortran",
+      "color": "#4d41b1",
+      "bytes": 58876,
+      "repos": 1,
+      "pct": 0
+    },
+    {
+      "name": "Ruby",
+      "color": "#701516",
+      "bytes": 52961,
+      "repos": 7,
+      "pct": 0
+    },
+    {
+      "name": "Dockerfile",
+      "color": "#384d54",
+      "bytes": 24506,
+      "repos": 15,
+      "pct": 0
+    },
+    {
+      "name": "XSLT",
+      "color": "#EB8CEB",
+      "bytes": 24132,
+      "repos": 1,
+      "pct": 0
+    },
+    {
+      "name": "Roff",
+      "color": "#ecdebe",
+      "bytes": 15778,
+      "repos": 1,
+      "pct": 0
+    },
+    {
+      "name": "Batchfile",
+      "color": "#C1F12E",
+      "bytes": 11208,
+      "repos": 4,
+      "pct": 0
+    },
+    {
+      "name": "Forth",
+      "color": "#341708",
+      "bytes": 7574,
+      "repos": 1,
+      "pct": 0
+    },
+    {
+      "name": "Assembly",
+      "color": "#6E4C13",
+      "bytes": 6172,
+      "repos": 1,
+      "pct": 0
+    },
+    {
+      "name": "Meson",
+      "color": "#007800",
+      "bytes": 5062,
+      "repos": 1,
+      "pct": 0
+    },
+    {
+      "name": "BitBake",
+      "color": "#00bce4",
+      "bytes": 3268,
+      "repos": 2,
+      "pct": 0
+    },
+    {
+      "name": "Pug",
+      "color": "#a86454",
+      "bytes": 626,
+      "repos": 1,
+      "pct": 0
+    },
+    {
+      "name": "Procfile",
+      "color": "#3B2F63",
+      "bytes": 63,
+      "repos": 1,
+      "pct": 0
+    }
+  ],
+  "languagesActive": [
+    {
+      "name": "TypeScript",
+      "color": "#3178c6",
+      "pct": 61
+    },
+    {
+      "name": "JavaScript",
+      "color": "#f1e05a",
+      "pct": 26.5
+    },
+    {
+      "name": "Kotlin",
+      "color": "#A97BFF",
+      "pct": 3.8
+    },
+    {
+      "name": "Python",
+      "color": "#3572A5",
+      "pct": 3.1
+    },
+    {
+      "name": "HTML",
+      "color": "#e34c26",
+      "pct": 1.6
+    },
+    {
+      "name": "Java",
+      "color": "#b07219",
+      "pct": 1.4
+    },
+    {
+      "name": "Shell",
+      "color": "#89e051",
+      "pct": 0.9
+    },
+    {
+      "name": "CSS",
+      "color": "#663399",
+      "pct": 0.6
+    },
+    {
+      "name": "PLpgSQL",
+      "color": "#336790",
+      "pct": 0.4
+    },
+    {
+      "name": "Swift",
+      "color": "#F05138",
+      "pct": 0.2
+    },
+    {
+      "name": "C#",
+      "color": "#7355dd",
+      "pct": 0.2
+    },
+    {
+      "name": "PowerShell",
+      "color": "#012456",
+      "pct": 0.1
+    },
+    {
+      "name": "Ruby",
+      "color": "#701516",
+      "pct": 0.1
+    },
+    {
+      "name": "C++",
+      "color": "#f34b7d",
+      "pct": 0
+    },
+    {
+      "name": "Dockerfile",
+      "color": "#384d54",
+      "pct": 0
+    },
+    {
+      "name": "Batchfile",
+      "color": "#C1F12E",
+      "pct": 0
+    },
+    {
+      "name": "BitBake",
+      "color": "#00bce4",
+      "pct": 0
+    }
+  ],
+  "layers": {
+    "intelligence": {
+      "repos": 16,
+      "active": 1,
+      "commits": 35
+    },
+    "silicon": {
+      "repos": 5,
+      "active": 0,
+      "commits": 5
+    },
+    "edge": {
+      "repos": 14,
+      "active": 4,
+      "commits": 957
+    },
+    "core": {
+      "repos": 8,
+      "active": 5,
+      "commits": 344
+    },
+    "surface": {
+      "repos": 40,
+      "active": 11,
+      "commits": 1075
+    },
+    "other": {
+      "repos": 4,
+      "active": 0,
+      "commits": 0
+    }
+  },
+  "windows": [
+    {
+      "pushedDays": 1348,
+      "layer": "other"
+    },
+    {
+      "pushedDays": 1260,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 1242,
+      "layer": "other"
+    },
+    {
+      "pushedDays": 1240,
+      "layer": "other"
+    },
+    {
+      "pushedDays": 1204,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 1166,
+      "layer": "silicon"
+    },
+    {
+      "pushedDays": 1210,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 1201,
+      "layer": "silicon"
+    },
+    {
+      "pushedDays": 1167,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 1185,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 1182,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 1181,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 1172,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 1049,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 1042,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 945,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 883,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 791,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 905,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 891,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 872,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 761,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 881,
+      "layer": "other"
+    },
+    {
+      "pushedDays": 845,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 825,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 674,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 588,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 505,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 522,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 544,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 565,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 547,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 537,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 0,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 144,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 0,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 0,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 0,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 262,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 0,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 281,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 212,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 436,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 435,
+      "layer": "silicon"
+    },
+    {
+      "pushedDays": 126,
+      "layer": "silicon"
+    },
+    {
+      "pushedDays": 399,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 402,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 158,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 152,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 8,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 0,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 13,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 212,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 291,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 2,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 283,
+      "layer": "silicon"
+    },
+    {
+      "pushedDays": 227,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 130,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 2,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 101,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 119,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 182,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 141,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 136,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 106,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 101,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 92,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 88,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 88,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 79,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 61,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 29,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 32,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 54,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 6,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 54,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 3,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 34,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 24,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 40,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 0,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 21,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 0,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 8,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 5,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 10,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 3,
+      "layer": "surface"
+    }
+  ],
+  "publicRepos": [
+    {
+      "name": "rms-link",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "pushedAt": "2026-09-26T03:17:01Z"
+    },
+    {
+      "name": "automation_desktop_macbook",
+      "description": null,
+      "language": "Python",
+      "stars": 0,
+      "pushedAt": "2026-05-12T14:49:56Z"
+    },
+    {
+      "name": "record_screen_manager_window",
+      "description": null,
+      "language": "C#",
+      "stars": 0,
+      "pushedAt": "2026-05-07T08:44:28Z"
+    },
+    {
+      "name": "example_fine_tuning_pytorch",
+      "description": null,
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "pushedAt": "2024-07-27T04:58:35Z"
+    },
+    {
+      "name": "fortune",
+      "description": "사주 어플리케이션 배포용",
+      "language": "Python",
+      "stars": 0,
+      "pushedAt": "2024-06-02T15:07:05Z"
+    },
+    {
+      "name": "yeonsooooooo",
+      "description": null,
+      "language": null,
+      "stars": 0,
+      "pushedAt": "2024-04-28T02:16:32Z"
+    },
+    {
+      "name": "llama-fine-tuning",
+      "description": null,
+      "language": null,
+      "stars": 0,
+      "pushedAt": "2024-04-18T04:27:06Z"
+    },
+    {
+      "name": "TMANNER-APP",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "pushedAt": "2023-11-18T13:25:16Z"
+    },
+    {
+      "name": "Todolist",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "pushedAt": "2023-11-11T14:56:46Z"
+    },
+    {
+      "name": "embed_contest",
+      "description": "임베디드 소프트웨어 경진대회",
+      "language": "Python",
+      "stars": 0,
+      "pushedAt": "2023-07-17T11:21:29Z"
+    },
+    {
+      "name": "ShopppingMall",
+      "description": null,
+      "language": "CSS",
+      "stars": 0,
+      "pushedAt": "2023-07-16T15:01:03Z"
+    },
+    {
+      "name": "freeboard_frontend",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "pushedAt": "2023-07-11T19:35:10Z"
+    },
+    {
+      "name": "board_react",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "pushedAt": "2023-07-02T13:23:53Z"
+    },
+    {
+      "name": "SWHackerton",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 0,
+      "pushedAt": "2023-07-01T16:00:55Z"
+    },
+    {
+      "name": "pandaButton",
+      "description": null,
+      "language": "CSS",
+      "stars": 0,
+      "pushedAt": "2023-06-29T08:04:25Z"
+    },
+    {
+      "name": "car-suspension",
+      "description": null,
+      "language": "C++",
+      "stars": 0,
+      "pushedAt": "2023-06-12T12:57:48Z"
+    },
+    {
+      "name": "osw_team",
+      "description": "오픈소스 소프트웨터  기말 과제",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "pushedAt": "2023-06-09T12:48:37Z"
+    },
+    {
+      "name": "osw",
+      "description": "오픈소스 개인 과제_오픈 소스를 활용한 게임만들기",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "pushedAt": "2023-06-04T05:33:19Z"
+    },
+    {
+      "name": "gitTest",
+      "description": null,
+      "language": null,
+      "stars": 0,
+      "pushedAt": "2023-05-04T10:30:31Z"
+    },
+    {
+      "name": "pinterest",
+      "description": null,
+      "language": "Python",
+      "stars": 0,
+      "pushedAt": "2023-05-02T09:49:17Z"
+    },
+    {
+      "name": "mysite",
+      "description": "django tutorial for learning",
+      "language": "Python",
+      "stars": 0,
+      "pushedAt": "2023-04-14T16:27:36Z"
+    },
+    {
+      "name": "Test",
+      "description": null,
+      "language": null,
+      "stars": 0,
+      "pushedAt": "2023-01-16T08:42:32Z"
+    }
+  ]
+}

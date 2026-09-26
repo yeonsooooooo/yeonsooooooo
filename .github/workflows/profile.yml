@@ -1,0 +1,53 @@
+# Nightly rebuild: read every repo → data/stats.json → assets/*.svg.
+# Needs a secret named GH_PAT (fine-grained, read-only "Contents" + "Metadata" on all repos)
+# to see private repos. Without it the cached stats are kept and only time-based fields refresh.
+name: profile
+
+on:
+  schedule:
+    - cron: '17 15 * * *' # 00:17 KST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['profile.config.mjs', 'scripts/**', '.github/workflows/profile.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-build
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: 22
+
+      - name: Collect
+        run: node scripts/collect.mjs
+        env:
+          GH_PAT: ${{ secrets.GH_PAT || secrets.CUSTOM_GITHUB_TOKEN }}
+
+      - name: Render and publish
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          cp data/stats.json "$RUNNER_TEMP/stats.json"
+          for attempt in 1 2 3 4 5; do
+            node scripts/render.mjs
+            git add -A assets data README.md profile.json llms.txt
+            git diff --cached --quiet && exit 0
+            git commit --quiet -m "profile: nightly rebuild [skip ci]"
+            git push --quiet origin HEAD:main && exit 0
+            # someone (probably shell.yml) pushed first: take theirs, reapply our stats, render again
+            sleep $((attempt * 3))
+            git fetch --quiet origin main
+            git reset --quiet --hard origin/main
+            cp "$RUNNER_TEMP/stats.json" data/stats.json
+          done
+          exit 1
