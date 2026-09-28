@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T18:58:46.041Z",
+  "generatedAt": "2026-09-28T21:14:00.162Z",
   "mode": "full",
   "user": {
     "login": "yeonsooooooo",
@@ -17,16 +17,16 @@
     "private": 65,
     "archived": 0,
     "pushedWeek": 16,
-    "pushedMonth": 22,
+    "pushedMonth": 21,
     "createdThisYear": 31,
     "stars": 0
   },
   "commits": {
-    "year": 2425,
-    "allTime": 4785,
-    "activeDays": 308,
-    "longestStreak": 60,
-    "currentStreak": 60,
+    "year": 2453,
+    "allTime": 4813,
+    "activeDays": 309,
+    "longestStreak": 61,
+    "currentStreak": 61,
     "busiest": {
       "date": "2026-09-05",
       "count": 72
@@ -43,30 +43,30 @@
       89,
       75,
       44,
-      55,
-      73,
-      97,
-      111,
-      135,
-      176,
-      228,
-      268,
+      62,
+      77,
+      99,
+      114,
+      137,
+      177,
+      233,
+      271,
       216,
       152,
       140,
       141,
-      125,
+      126,
       81,
       62
     ],
     "weekdays": [
       423,
-      331,
+      350,
       300,
       353,
       319,
-      323,
-      376
+      328,
+      380
     ],
     "calendar": {
       "start": "2025-09-28",
@@ -433,9 +433,10 @@
         6,
         40,
         22,
-        12,
-        55,
+        17,
+        59,
         32,
+        19,
         0
       ]
     }
@@ -446,34 +447,34 @@
       "color": "#3572A5",
       "bytes": 110372857,
       "repos": 29,
-      "pct": 60.1
+      "pct": 59.9
     },
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "bytes": 39878822,
+      "bytes": 40055405,
       "repos": 36,
       "pct": 21.7
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "bytes": 23993593,
+      "bytes": 24271515,
       "repos": 51,
-      "pct": 13.1
+      "pct": 13.2
     },
     {
       "name": "Kotlin",
       "color": "#A97BFF",
-      "bytes": 2282052,
+      "bytes": 2366142,
       "repos": 9,
-      "pct": 1.2
+      "pct": 1.3
     },
     {
       "name": "HTML",
       "color": "#e34c26",
-      "bytes": 1487894,
-      "repos": 28,
+      "bytes": 1492535,
+      "repos": 29,
       "pct": 0.8
     },
     {
@@ -493,7 +494,7 @@
     {
       "name": "Shell",
       "color": "#89e051",
-      "bytes": 749956,
+      "bytes": 757331,
       "repos": 28,
       "pct": 0.4
     },
@@ -514,16 +515,16 @@
     {
       "name": "CSS",
       "color": "#663399",
-      "bytes": 526869,
-      "repos": 37,
+      "bytes": 533723,
+      "repos": 38,
       "pct": 0.3
     },
     {
       "name": "Swift",
       "color": "#F05138",
-      "bytes": 421383,
+      "bytes": 461297,
       "repos": 9,
-      "pct": 0.2
+      "pct": 0.3
     },
     {
       "name": "Cython",
@@ -563,8 +564,8 @@
     {
       "name": "Dockerfile",
       "color": "#384d54",
-      "bytes": 24522,
-      "repos": 15,
+      "bytes": 24815,
+      "repos": 16,
       "pct": 0
     },
     {
@@ -635,17 +636,17 @@
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 61.9
+      "pct": 61.7
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 25.5
+      "pct": 25.6
     },
     {
       "name": "Kotlin",
       "color": "#A97BFF",
-      "pct": 3.7
+      "pct": 3.8
     },
     {
       "name": "Python",
@@ -655,7 +656,7 @@
     {
       "name": "HTML",
       "color": "#e34c26",
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "Java",
@@ -670,12 +671,12 @@
     {
       "name": "Swift",
       "color": "#F05138",
-      "pct": 0.6
+      "pct": 0.7
     },
     {
       "name": "CSS",
       "color": "#663399",
-      "pct": 0.6
+      "pct": 0.7
     },
     {
       "name": "PLpgSQL",
@@ -732,17 +733,17 @@
     "edge": {
       "repos": 14,
       "active": 4,
-      "commits": 928
+      "commits": 942
     },
     "core": {
       "repos": 8,
       "active": 5,
-      "commits": 363
+      "commits": 369
     },
     "surface": {
       "repos": 41,
-      "active": 12,
-      "commits": 1094
+      "active": 11,
+      "commits": 1102
     },
     "other": {
       "repos": 3,
@@ -752,43 +753,47 @@
   },
   "windows": [
     {
-      "pushedDays": 1350,
+      "pushedDays": 1351,
       "layer": "other"
     },
     {
-      "pushedDays": 1262,
+      "pushedDays": 1263,
       "layer": "surface"
     },
     {
-      "pushedDays": 1244,
+      "pushedDays": 1245,
       "layer": "other"
     },
     {
-      "pushedDays": 1242,
+      "pushedDays": 1243,
       "layer": "other"
     },
     {
-      "pushedDays": 1206,
+      "pushedDays": 1207,
       "layer": "intelligence"
-    },
-    {
-      "pushedDays": 1168,
-      "layer": "silicon"
-    },
-    {
-      "pushedDays": 1211,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 1203,
-      "layer": "silicon"
     },
     {
       "pushedDays": 1169,
+      "layer": "silicon"
+    },
+    {
+      "pushedDays": 1212,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 1204,
+      "layer": "silicon"
+    },
+    {
+      "pushedDays": 1170,
       "layer": "surface"
     },
     {
-      "pushedDays": 1186,
+      "pushedDays": 1187,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 1185,
       "layer": "surface"
     },
     {
@@ -796,47 +801,43 @@
       "layer": "surface"
     },
     {
-      "pushedDays": 1183,
+      "pushedDays": 1175,
       "layer": "surface"
     },
     {
-      "pushedDays": 1173,
+      "pushedDays": 1052,
       "layer": "surface"
     },
     {
-      "pushedDays": 1051,
+      "pushedDays": 1045,
       "layer": "surface"
     },
     {
-      "pushedDays": 1044,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 946,
+      "pushedDays": 947,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 885,
+      "pushedDays": 886,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 792,
+      "pushedDays": 793,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 907,
+      "pushedDays": 908,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 892,
+      "pushedDays": 893,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 874,
+      "pushedDays": 875,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 763,
+      "pushedDays": 764,
       "layer": "intelligence"
     },
     {
@@ -844,115 +845,43 @@
       "layer": "surface"
     },
     {
-      "pushedDays": 847,
+      "pushedDays": 848,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 826,
+      "pushedDays": 827,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 675,
+      "pushedDays": 676,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 590,
+      "pushedDays": 591,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 506,
+      "pushedDays": 507,
       "layer": "surface"
     },
     {
-      "pushedDays": 523,
+      "pushedDays": 524,
       "layer": "edge"
     },
     {
-      "pushedDays": 545,
+      "pushedDays": 547,
       "layer": "surface"
     },
     {
-      "pushedDays": 567,
+      "pushedDays": 568,
       "layer": "surface"
     },
     {
-      "pushedDays": 549,
+      "pushedDays": 550,
       "layer": "edge"
     },
     {
-      "pushedDays": 538,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 1,
-      "layer": "core"
-    },
-    {
-      "pushedDays": 146,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 0,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 1,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 0,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 263,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 1,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 282,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 213,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 437,
-      "layer": "core"
-    },
-    {
-      "pushedDays": 437,
-      "layer": "silicon"
-    },
-    {
-      "pushedDays": 128,
-      "layer": "silicon"
-    },
-    {
-      "pushedDays": 400,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 403,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 160,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 154,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 9,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 0,
+      "pushedDays": 539,
       "layer": "surface"
     },
     {
@@ -960,115 +889,195 @@
       "layer": "core"
     },
     {
-      "pushedDays": 213,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 293,
+      "pushedDays": 147,
       "layer": "surface"
     },
     {
-      "pushedDays": 4,
+      "pushedDays": 0,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 0,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 0,
       "layer": "surface"
     },
     {
-      "pushedDays": 284,
+      "pushedDays": 264,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 0,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 283,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 214,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 438,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 438,
       "layer": "silicon"
     },
     {
-      "pushedDays": 228,
+      "pushedDays": 129,
+      "layer": "silicon"
+    },
+    {
+      "pushedDays": 401,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 404,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 161,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 155,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 10,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 1,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 0,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 214,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 294,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 5,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 286,
+      "layer": "silicon"
+    },
+    {
+      "pushedDays": 229,
       "layer": "edge"
     },
     {
-      "pushedDays": 132,
+      "pushedDays": 133,
       "layer": "surface"
     },
     {
-      "pushedDays": 4,
+      "pushedDays": 5,
       "layer": "surface"
     },
     {
-      "pushedDays": 103,
+      "pushedDays": 104,
       "layer": "surface"
     },
     {
-      "pushedDays": 120,
+      "pushedDays": 121,
       "layer": "surface"
     },
     {
-      "pushedDays": 183,
+      "pushedDays": 184,
       "layer": "edge"
     },
     {
-      "pushedDays": 143,
+      "pushedDays": 144,
       "layer": "edge"
     },
     {
-      "pushedDays": 138,
+      "pushedDays": 139,
       "layer": "edge"
     },
     {
-      "pushedDays": 107,
+      "pushedDays": 108,
       "layer": "edge"
     },
     {
-      "pushedDays": 103,
+      "pushedDays": 104,
       "layer": "surface"
     },
     {
-      "pushedDays": 94,
+      "pushedDays": 95,
       "layer": "surface"
+    },
+    {
+      "pushedDays": 91,
+      "layer": "edge"
     },
     {
       "pushedDays": 90,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 89,
       "layer": "core"
     },
     {
-      "pushedDays": 81,
+      "pushedDays": 82,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 63,
+      "pushedDays": 64,
       "layer": "surface"
     },
     {
-      "pushedDays": 30,
+      "pushedDays": 31,
       "layer": "surface"
-    },
-    {
-      "pushedDays": 34,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 56,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 0,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 56,
-      "layer": "core"
-    },
-    {
-      "pushedDays": 4,
-      "layer": "core"
     },
     {
       "pushedDays": 35,
       "layer": "surface"
     },
     {
-      "pushedDays": 26,
+      "pushedDays": 57,
       "layer": "surface"
     },
     {
-      "pushedDays": 42,
+      "pushedDays": 1,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 57,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 0,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 36,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 27,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 43,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 2,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 24,
       "layer": "surface"
     },
     {
@@ -1076,27 +1085,19 @@
       "layer": "core"
     },
     {
-      "pushedDays": 23,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 0,
-      "layer": "core"
-    },
-    {
-      "pushedDays": 10,
+      "pushedDays": 11,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 6,
+      "pushedDays": 7,
       "layer": "edge"
     },
     {
-      "pushedDays": 12,
+      "pushedDays": 13,
       "layer": "surface"
     },
     {
-      "pushedDays": 4,
+      "pushedDays": 5,
       "layer": "surface"
     }
   ],
@@ -1106,7 +1107,7 @@
       "description": null,
       "language": "JavaScript",
       "stars": 0,
-      "pushedAt": "2026-09-26T18:36:18Z"
+      "pushedAt": "2026-09-27T18:58:47Z"
     },
     {
       "name": "rms-link",
