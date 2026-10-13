@@ -24,7 +24,7 @@
       "layer": "core",
       "tech": "NestJS · MySQL · schedulers · payments · PMS",
       "repos": 10,
-      "commitsLastYear": 605
+      "commitsLastYear": 607
     },
     {
       "layer": "edge",
@@ -66,10 +66,10 @@
     }
   ],
   "activity": {
-    "commitsLastYear": 3000,
-    "commitsAllTime": 5447,
-    "activeDaysLastYear": 315,
-    "currentStreakDays": 75,
+    "commitsLastYear": 3002,
+    "commitsAllTime": 5449,
+    "activeDaysLastYear": 316,
+    "currentStreakDays": 76,
     "repositories": {
       "total": 90,
       "public": 22,
@@ -159,5 +159,5 @@
       "event": "init: hello, world"
     }
   ],
-  "updatedAt": "2026-10-12T22:29:56.694Z"
+  "updatedAt": "2026-10-13T20:40:41.767Z"
 }
