@@ -18,7 +18,7 @@
       "layer": "surface",
       "tech": "Next.js dashboards · React Native · SwiftUI · Flutter",
       "repos": 42,
-      "commitsLastYear": 1249
+      "commitsLastYear": 1253
     },
     {
       "layer": "core",
@@ -29,8 +29,8 @@
     {
       "layer": "edge",
       "tech": "touch kiosks (Electron) · Android agents · RPA",
-      "repos": 14,
-      "commitsLastYear": 1108
+      "repos": 15,
+      "commitsLastYear": 1113
     },
     {
       "layer": "silicon",
@@ -42,7 +42,7 @@
   "writing": [
     {
       "language": "TypeScript",
-      "sharePct": 66.3
+      "sharePct": 66.4
     },
     {
       "language": "JavaScript",
@@ -66,14 +66,14 @@
     }
   ],
   "activity": {
-    "commitsLastYear": 3018,
-    "commitsAllTime": 5465,
-    "activeDaysLastYear": 317,
-    "currentStreakDays": 77,
+    "commitsLastYear": 3027,
+    "commitsAllTime": 5474,
+    "activeDaysLastYear": 318,
+    "currentStreakDays": 78,
     "repositories": {
-      "total": 90,
+      "total": 91,
       "public": 22,
-      "private": 68
+      "private": 69
     },
     "note": "Counts include private repositories; names of private repositories are intentionally omitted."
   },
@@ -159,5 +159,5 @@
       "event": "init: hello, world"
     }
   ],
-  "updatedAt": "2026-10-14T19:22:12.553Z"
+  "updatedAt": "2026-10-15T19:06:54.014Z"
 }
