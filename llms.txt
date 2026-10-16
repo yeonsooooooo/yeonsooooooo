@@ -2,11 +2,11 @@
 
 > I build the operating system for unmanned hotels — from PCB firmware to LLMs.
 
-Based in Seoul, KR. 3,027 commits in the last year across 91 repositories (69 private; the public contribution graph shows only 37).
+Based in Seoul, KR. 3,040 commits in the last year across 92 repositories (70 private; the public contribution graph shows only 37).
 
 ## Stack, top to bottom
 - intelligence: LLM · RAG · vision · speech-to-text · forecasting (16 repos)
-- surface: Next.js dashboards · React Native · SwiftUI · Flutter (42 repos)
+- surface: Next.js dashboards · React Native · SwiftUI · Flutter (43 repos)
 - core: NestJS · MySQL · schedulers · payments · PMS (10 repos)
 - edge: touch kiosks (Electron) · Android agents · RPA (15 repos)
 - silicon: 30-ch PCB firmware · RTSP / WebRTC camera relay (5 repos)
