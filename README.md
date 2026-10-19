@@ -15,6 +15,15 @@
 <a href="llms.txt"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeonsooooooo/yeonsooooooo/main/assets/btn/link-llms-txt-dark.svg"><img alt="llms.txt — profile for language models" src="https://raw.githubusercontent.com/yeonsooooooo/yeonsooooooo/main/assets/btn/link-llms-txt-light.svg" width="128"></picture></a>
 </p>
 
+## Selected projects
+
+| Project | What to explore |
+| --- | --- |
+| [RmsLink](https://github.com/yeonsooooooo/rms-link) | Windows UI Automation + OCR, encrypted outbox, live operations dashboard, and signed updates. |
+| [TMANNER](https://github.com/yeonsooooooo/TMANNER-APP) | React Native + Expo mobile UI for table ordering and menu management. |
+| [DiskMonitor](https://github.com/yeonsooooooo/record_screen_manager_window) | C# / .NET 8 WPF app for disk thresholds, scheduled cleanup, persistent settings, and MSI packaging. |
+| [Profile engine](https://github.com/yeonsooooooo/yeonsooooooo/tree/main/scripts) | Hand-written SVG renderers, a simulated Breakout game, and GitHub Actions that turn repository activity into this profile. |
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeonsooooooo/yeonsooooooo/main/assets/arcade-dark.svg">
   <img alt="Commit Breakout: a self-playing Breakout game where every brick is a real day of commits from the last year, private repositories included. The busiest day is a golden brick that triggers multiball, the start of the current streak triggers fireball, and the score counts up to the year's commit total." src="https://raw.githubusercontent.com/yeonsooooooo/yeonsooooooo/main/assets/arcade-light.svg" width="100%">
@@ -69,3 +78,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeonsooooooo/yeonsooooooo/main/assets/status-dark.svg">
   <img alt="Status line with the last build time." src="https://raw.githubusercontent.com/yeonsooooooo/yeonsooooooo/main/assets/status-light.svg" width="100%">
 </picture>
+
