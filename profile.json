@@ -69,7 +69,7 @@
     "commitsLastYear": 3174,
     "commitsAllTime": 5634,
     "activeDaysLastYear": 318,
-    "currentStreakDays": 83,
+    "currentStreakDays": 0,
     "repositories": {
       "total": 92,
       "public": 22,
@@ -159,5 +159,5 @@
       "event": "init: hello, world"
     }
   ],
-  "updatedAt": "2026-10-20T19:14:12.284Z"
+  "updatedAt": "2026-10-21T19:18:09.055Z"
 }

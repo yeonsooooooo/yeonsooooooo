@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T19:14:12.284Z",
+  "generatedAt": "2026-10-21T19:18:09.055Z",
   "mode": "full",
   "user": {
     "login": "yeonsooooooo",
@@ -26,7 +26,7 @@
     "allTime": 5634,
     "activeDays": 318,
     "longestStreak": 83,
-    "currentStreak": 83,
+    "currentStreak": 0,
     "busiest": {
       "date": "2026-10-03",
       "count": 116
@@ -438,6 +438,7 @@
         22,
         24,
         17,
+        0,
         0
       ]
     }
@@ -460,7 +461,7 @@
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "bytes": 29948403,
+      "bytes": 29978440,
       "repos": 56,
       "pct": 13.6
     },
@@ -766,43 +767,47 @@
   },
   "windows": [
     {
-      "pushedDays": 1373,
+      "pushedDays": 1374,
       "layer": "other"
     },
     {
-      "pushedDays": 1285,
+      "pushedDays": 1286,
       "layer": "surface"
     },
     {
-      "pushedDays": 1267,
+      "pushedDays": 1268,
       "layer": "other"
     },
     {
-      "pushedDays": 1265,
+      "pushedDays": 1266,
       "layer": "other"
     },
     {
-      "pushedDays": 1229,
+      "pushedDays": 1230,
       "layer": "intelligence"
-    },
-    {
-      "pushedDays": 1191,
-      "layer": "silicon"
-    },
-    {
-      "pushedDays": 1234,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 1226,
-      "layer": "silicon"
     },
     {
       "pushedDays": 1192,
+      "layer": "silicon"
+    },
+    {
+      "pushedDays": 1235,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 1227,
+      "layer": "silicon"
+    },
+    {
+      "pushedDays": 1193,
       "layer": "surface"
     },
     {
-      "pushedDays": 1209,
+      "pushedDays": 1210,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 1208,
       "layer": "surface"
     },
     {
@@ -810,91 +815,87 @@
       "layer": "surface"
     },
     {
-      "pushedDays": 1206,
+      "pushedDays": 1197,
       "layer": "surface"
     },
     {
-      "pushedDays": 1196,
+      "pushedDays": 1075,
       "layer": "surface"
     },
     {
-      "pushedDays": 1074,
+      "pushedDays": 2,
       "layer": "surface"
+    },
+    {
+      "pushedDays": 970,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 909,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 816,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 931,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 916,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 898,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 787,
+      "layer": "intelligence"
     },
     {
       "pushedDays": 1,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 969,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 908,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 815,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 930,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 915,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 897,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 786,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 0,
       "layer": "edge"
     },
     {
-      "pushedDays": 870,
+      "pushedDays": 871,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 849,
+      "pushedDays": 850,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 698,
+      "pushedDays": 699,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 613,
+      "pushedDays": 614,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 529,
+      "pushedDays": 530,
       "layer": "surface"
     },
     {
-      "pushedDays": 546,
+      "pushedDays": 547,
       "layer": "edge"
     },
     {
-      "pushedDays": 568,
+      "pushedDays": 569,
       "layer": "surface"
     },
     {
-      "pushedDays": 590,
+      "pushedDays": 591,
       "layer": "surface"
     },
     {
-      "pushedDays": 572,
+      "pushedDays": 573,
       "layer": "edge"
     },
     {
-      "pushedDays": 561,
+      "pushedDays": 562,
       "layer": "surface"
     },
     {
@@ -902,235 +903,235 @@
       "layer": "core"
     },
     {
-      "pushedDays": 169,
+      "pushedDays": 170,
       "layer": "surface"
     },
     {
       "pushedDays": 0,
       "layer": "edge"
-    },
-    {
-      "pushedDays": 0,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 4,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 286,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 0,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 305,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 236,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 460,
-      "layer": "core"
-    },
-    {
-      "pushedDays": 460,
-      "layer": "silicon"
-    },
-    {
-      "pushedDays": 151,
-      "layer": "silicon"
-    },
-    {
-      "pushedDays": 423,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 426,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 183,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 177,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 9,
-      "layer": "surface"
     },
     {
       "pushedDays": 1,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 5,
       "layer": "surface"
     },
     {
+      "pushedDays": 287,
+      "layer": "edge"
+    },
+    {
       "pushedDays": 1,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 306,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 237,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 461,
       "layer": "core"
     },
     {
-      "pushedDays": 236,
+      "pushedDays": 461,
+      "layer": "silicon"
+    },
+    {
+      "pushedDays": 152,
+      "layer": "silicon"
+    },
+    {
+      "pushedDays": 424,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 427,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 184,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 178,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 10,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 2,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 2,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 237,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 316,
+      "pushedDays": 317,
       "layer": "surface"
     },
     {
-      "pushedDays": 27,
+      "pushedDays": 28,
       "layer": "surface"
     },
     {
-      "pushedDays": 307,
+      "pushedDays": 309,
       "layer": "silicon"
     },
     {
-      "pushedDays": 251,
+      "pushedDays": 252,
       "layer": "edge"
     },
     {
-      "pushedDays": 155,
+      "pushedDays": 156,
       "layer": "surface"
     },
     {
-      "pushedDays": 27,
+      "pushedDays": 28,
       "layer": "surface"
     },
     {
-      "pushedDays": 16,
+      "pushedDays": 17,
       "layer": "surface"
     },
     {
-      "pushedDays": 143,
+      "pushedDays": 144,
       "layer": "surface"
     },
     {
-      "pushedDays": 206,
+      "pushedDays": 207,
       "layer": "edge"
     },
     {
-      "pushedDays": 166,
+      "pushedDays": 167,
       "layer": "edge"
     },
     {
-      "pushedDays": 161,
+      "pushedDays": 162,
       "layer": "edge"
     },
     {
-      "pushedDays": 130,
+      "pushedDays": 131,
       "layer": "edge"
     },
     {
-      "pushedDays": 126,
+      "pushedDays": 127,
       "layer": "surface"
     },
     {
-      "pushedDays": 117,
+      "pushedDays": 118,
       "layer": "surface"
+    },
+    {
+      "pushedDays": 114,
+      "layer": "edge"
     },
     {
       "pushedDays": 113,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 112,
       "layer": "core"
     },
     {
-      "pushedDays": 104,
+      "pushedDays": 105,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 86,
+      "pushedDays": 87,
       "layer": "surface"
     },
     {
-      "pushedDays": 53,
+      "pushedDays": 54,
       "layer": "surface"
-    },
-    {
-      "pushedDays": 57,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 79,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 23,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 79,
-      "layer": "core"
-    },
-    {
-      "pushedDays": 21,
-      "layer": "core"
     },
     {
       "pushedDays": 58,
       "layer": "surface"
     },
     {
-      "pushedDays": 49,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 65,
+      "pushedDays": 80,
       "layer": "surface"
     },
     {
       "pushedDays": 24,
-      "layer": "core"
-    },
-    {
-      "pushedDays": 11,
       "layer": "surface"
     },
     {
-      "pushedDays": 0,
+      "pushedDays": 80,
       "layer": "core"
     },
     {
-      "pushedDays": 11,
+      "pushedDays": 22,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 59,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 50,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 66,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 25,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 12,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 1,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 12,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 17,
+      "pushedDays": 18,
       "layer": "edge"
     },
     {
-      "pushedDays": 35,
+      "pushedDays": 36,
       "layer": "surface"
     },
     {
-      "pushedDays": 27,
+      "pushedDays": 28,
       "layer": "surface"
     },
     {
-      "pushedDays": 16,
+      "pushedDays": 17,
       "layer": "surface"
+    },
+    {
+      "pushedDays": 10,
+      "layer": "core"
     },
     {
       "pushedDays": 9,
       "layer": "core"
     },
     {
-      "pushedDays": 8,
-      "layer": "core"
-    },
-    {
       "pushedDays": 0,
       "layer": "edge"
     },
     {
-      "pushedDays": 4,
+      "pushedDays": 5,
       "layer": "surface"
     }
   ],
@@ -1140,7 +1141,7 @@
       "description": "Data-driven GitHub profile with animated SVGs, commit Breakout, and GitHub Actions automation.",
       "language": "JavaScript",
       "stars": 0,
-      "pushedAt": "2026-10-19T20:35:32Z"
+      "pushedAt": "2026-10-20T19:14:13Z"
     },
     {
       "name": "TMANNER-APP",
