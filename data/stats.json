@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T20:04:46.191Z",
+  "generatedAt": "2026-10-28T20:15:34.263Z",
   "mode": "full",
   "user": {
     "login": "yeonsooooooo",
@@ -10,23 +10,23 @@
     "followers": 5,
     "following": 7
   },
-  "publicContributions": 3800,
+  "publicContributions": 3804,
   "repos": {
     "total": 92,
     "public": 22,
     "private": 70,
     "archived": 0,
-    "pushedWeek": 13,
-    "pushedMonth": 22,
+    "pushedWeek": 12,
+    "pushedMonth": 21,
     "createdThisYear": 36,
     "stars": 0
   },
   "commits": {
-    "year": 3216,
-    "allTime": 5683,
-    "activeDays": 318,
+    "year": 3220,
+    "allTime": 5687,
+    "activeDays": 319,
     "longestStreak": 83,
-    "currentStreak": 1,
+    "currentStreak": 2,
     "busiest": {
       "date": "2026-10-03",
       "count": 116
@@ -47,8 +47,8 @@
       139,
       155,
       202,
-      208,
-      238,
+      210,
+      240,
       300,
       334,
       295,
@@ -63,7 +63,7 @@
       473,
       492,
       393,
-      402,
+      406,
       371,
       498,
       587
@@ -438,6 +438,7 @@
         8,
         0,
         10,
+        4,
         0
       ]
     }
@@ -453,14 +454,14 @@
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "bytes": 69758544,
+      "bytes": 69905881,
       "repos": 41,
       "pct": 31.5
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "bytes": 30224597,
+      "bytes": 30156821,
       "repos": 56,
       "pct": 13.6
     },
@@ -644,12 +645,12 @@
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "pct": 66.3
+      "pct": 66.4
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "pct": 22.4
+      "pct": 22.3
     },
     {
       "name": "Kotlin",
@@ -751,11 +752,11 @@
     "core": {
       "repos": 10,
       "active": 6,
-      "commits": 681
+      "commits": 685
     },
     "surface": {
       "repos": 42,
-      "active": 9,
+      "active": 8,
       "commits": 1286
     },
     "other": {
@@ -766,43 +767,47 @@
   },
   "windows": [
     {
-      "pushedDays": 1380,
+      "pushedDays": 1381,
       "layer": "other"
     },
     {
-      "pushedDays": 1292,
+      "pushedDays": 1293,
       "layer": "surface"
     },
     {
-      "pushedDays": 1274,
+      "pushedDays": 1275,
       "layer": "other"
     },
     {
-      "pushedDays": 1272,
+      "pushedDays": 1273,
       "layer": "other"
     },
     {
-      "pushedDays": 1236,
+      "pushedDays": 1237,
       "layer": "intelligence"
-    },
-    {
-      "pushedDays": 1198,
-      "layer": "silicon"
-    },
-    {
-      "pushedDays": 1241,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 1233,
-      "layer": "silicon"
     },
     {
       "pushedDays": 1199,
+      "layer": "silicon"
+    },
+    {
+      "pushedDays": 1242,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 1234,
+      "layer": "silicon"
+    },
+    {
+      "pushedDays": 1200,
       "layer": "surface"
     },
     {
-      "pushedDays": 1216,
+      "pushedDays": 1217,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 1215,
       "layer": "surface"
     },
     {
@@ -810,327 +815,323 @@
       "layer": "surface"
     },
     {
-      "pushedDays": 1213,
+      "pushedDays": 1205,
       "layer": "surface"
     },
     {
-      "pushedDays": 1204,
+      "pushedDays": 1082,
       "layer": "surface"
     },
     {
-      "pushedDays": 1081,
+      "pushedDays": 9,
       "layer": "surface"
+    },
+    {
+      "pushedDays": 977,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 916,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 823,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 938,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 923,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 905,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 794,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 1,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 878,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 857,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 706,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 621,
+      "layer": "intelligence"
+    },
+    {
+      "pushedDays": 537,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 554,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 576,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 598,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 580,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 569,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 3,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 177,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 0,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 1,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 1,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 294,
+      "layer": "edge"
     },
     {
       "pushedDays": 8,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 976,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 915,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 822,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 937,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 922,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 904,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 793,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 0,
       "layer": "edge"
     },
     {
-      "pushedDays": 877,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 856,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 705,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 620,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 536,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 553,
+      "pushedDays": 313,
       "layer": "edge"
     },
     {
-      "pushedDays": 575,
+      "pushedDays": 244,
       "layer": "surface"
     },
     {
-      "pushedDays": 597,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 579,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 568,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 2,
+      "pushedDays": 468,
       "layer": "core"
     },
     {
-      "pushedDays": 176,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 2,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 0,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 0,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 293,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 7,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 312,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 243,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 467,
-      "layer": "core"
-    },
-    {
-      "pushedDays": 467,
+      "pushedDays": 468,
       "layer": "silicon"
     },
     {
-      "pushedDays": 158,
+      "pushedDays": 159,
       "layer": "silicon"
     },
     {
-      "pushedDays": 430,
+      "pushedDays": 431,
       "layer": "surface"
     },
     {
-      "pushedDays": 433,
+      "pushedDays": 434,
       "layer": "surface"
     },
     {
-      "pushedDays": 190,
+      "pushedDays": 191,
       "layer": "surface"
     },
     {
-      "pushedDays": 184,
+      "pushedDays": 185,
       "layer": "surface"
     },
     {
-      "pushedDays": 16,
+      "pushedDays": 17,
       "layer": "surface"
     },
     {
-      "pushedDays": 4,
+      "pushedDays": 5,
       "layer": "surface"
     },
     {
-      "pushedDays": 8,
+      "pushedDays": 9,
       "layer": "core"
     },
     {
-      "pushedDays": 243,
+      "pushedDays": 244,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 323,
+      "pushedDays": 324,
       "layer": "surface"
     },
     {
-      "pushedDays": 34,
+      "pushedDays": 35,
       "layer": "surface"
     },
     {
-      "pushedDays": 315,
+      "pushedDays": 316,
       "layer": "silicon"
     },
     {
-      "pushedDays": 258,
+      "pushedDays": 259,
       "layer": "edge"
     },
     {
-      "pushedDays": 162,
+      "pushedDays": 163,
       "layer": "surface"
     },
     {
-      "pushedDays": 34,
+      "pushedDays": 35,
       "layer": "surface"
     },
     {
-      "pushedDays": 23,
+      "pushedDays": 24,
       "layer": "surface"
     },
     {
-      "pushedDays": 150,
+      "pushedDays": 151,
       "layer": "surface"
     },
     {
-      "pushedDays": 213,
+      "pushedDays": 214,
       "layer": "edge"
     },
     {
-      "pushedDays": 173,
+      "pushedDays": 174,
       "layer": "edge"
     },
     {
-      "pushedDays": 168,
+      "pushedDays": 169,
       "layer": "edge"
     },
     {
-      "pushedDays": 137,
+      "pushedDays": 138,
       "layer": "edge"
     },
     {
-      "pushedDays": 133,
+      "pushedDays": 134,
       "layer": "surface"
     },
     {
-      "pushedDays": 124,
+      "pushedDays": 125,
       "layer": "surface"
+    },
+    {
+      "pushedDays": 121,
+      "layer": "edge"
     },
     {
       "pushedDays": 120,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 119,
       "layer": "core"
     },
     {
-      "pushedDays": 111,
+      "pushedDays": 112,
       "layer": "intelligence"
     },
     {
-      "pushedDays": 93,
+      "pushedDays": 94,
       "layer": "surface"
     },
     {
-      "pushedDays": 60,
+      "pushedDays": 61,
       "layer": "surface"
-    },
-    {
-      "pushedDays": 64,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 86,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 30,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 86,
-      "layer": "core"
-    },
-    {
-      "pushedDays": 28,
-      "layer": "core"
     },
     {
       "pushedDays": 65,
       "layer": "surface"
     },
     {
-      "pushedDays": 56,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 72,
+      "pushedDays": 87,
       "layer": "surface"
     },
     {
       "pushedDays": 31,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 87,
       "layer": "core"
     },
     {
-      "pushedDays": 2,
-      "layer": "surface"
-    },
-    {
-      "pushedDays": 0,
+      "pushedDays": 29,
       "layer": "core"
     },
     {
-      "pushedDays": 18,
-      "layer": "intelligence"
-    },
-    {
-      "pushedDays": 0,
-      "layer": "edge"
-    },
-    {
-      "pushedDays": 42,
+      "pushedDays": 66,
       "layer": "surface"
     },
     {
-      "pushedDays": 34,
+      "pushedDays": 57,
       "layer": "surface"
     },
     {
-      "pushedDays": 23,
+      "pushedDays": 73,
       "layer": "surface"
     },
     {
-      "pushedDays": 1,
-      "layer": "core"
-    },
-    {
-      "pushedDays": 15,
+      "pushedDays": 32,
       "layer": "core"
     },
     {
       "pushedDays": 3,
-      "layer": "edge"
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 0,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 19,
+      "layer": "intelligence"
     },
     {
       "pushedDays": 1,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 43,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 35,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 24,
+      "layer": "surface"
+    },
+    {
+      "pushedDays": 2,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 16,
+      "layer": "core"
+    },
+    {
+      "pushedDays": 4,
+      "layer": "edge"
+    },
+    {
+      "pushedDays": 2,
       "layer": "surface"
     }
   ],
@@ -1140,7 +1141,7 @@
       "description": "Data-driven GitHub profile with animated SVGs, commit Breakout, and GitHub Actions automation.",
       "language": "JavaScript",
       "stars": 0,
-      "pushedAt": "2026-10-26T20:28:37Z"
+      "pushedAt": "2026-10-27T20:04:51Z"
     },
     {
       "name": "TMANNER-APP",
