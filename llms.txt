@@ -2,7 +2,7 @@
 
 > I build the operating system for unmanned hotels — from PCB firmware to LLMs.
 
-Based in Seoul, KR. 3,226 commits in the last year across 92 repositories (70 private; the public contribution graph shows only 3937).
+Based in Seoul, KR. 3,244 commits in the last year across 92 repositories (70 private; the public contribution graph shows only 3963).
 
 ## Stack, top to bottom
 - intelligence: LLM · RAG · vision · speech-to-text · forecasting (16 repos)
@@ -12,11 +12,11 @@ Based in Seoul, KR. 3,226 commits in the last year across 92 repositories (70 pr
 - silicon: 30-ch PCB firmware · RTSP / WebRTC camera relay (5 repos)
 
 ## Writing right now (share of this year's commits)
-- TypeScript: 65.8%
+- TypeScript: 65.9%
 - JavaScript: 22.9%
 - Python: 2.8%
 - Kotlin: 2.8%
-- HTML: 1.4%
+- HTML: 1.3%
 - Java: 0.9%
 
 ## Timeline
