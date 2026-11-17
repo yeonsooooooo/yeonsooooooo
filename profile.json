@@ -24,13 +24,13 @@
       "layer": "core",
       "tech": "NestJS · MySQL · schedulers · payments · PMS",
       "repos": 10,
-      "commitsLastYear": 795
+      "commitsLastYear": 804
     },
     {
       "layer": "edge",
       "tech": "touch kiosks (Electron) · Android agents · RPA",
       "repos": 16,
-      "commitsLastYear": 1705
+      "commitsLastYear": 1719
     },
     {
       "layer": "silicon",
@@ -42,7 +42,7 @@
   "writing": [
     {
       "language": "TypeScript",
-      "sharePct": 66.9
+      "sharePct": 67
     },
     {
       "language": "JavaScript",
@@ -66,10 +66,10 @@
     }
   ],
   "activity": {
-    "commitsLastYear": 3933,
-    "commitsAllTime": 6536,
-    "activeDaysLastYear": 321,
-    "currentStreakDays": 17,
+    "commitsLastYear": 3956,
+    "commitsAllTime": 6559,
+    "activeDaysLastYear": 322,
+    "currentStreakDays": 18,
     "repositories": {
       "total": 93,
       "public": 22,
@@ -159,5 +159,5 @@
       "event": "init: hello, world"
     }
   ],
-  "updatedAt": "2026-11-16T23:44:44.560Z"
+  "updatedAt": "2026-11-17T22:52:21.590Z"
 }
