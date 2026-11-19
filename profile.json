@@ -50,7 +50,7 @@
     },
     {
       "language": "Kotlin",
-      "sharePct": 2.6
+      "sharePct": 2.5
     },
     {
       "language": "Python",
@@ -62,7 +62,7 @@
     },
     {
       "language": "Java",
-      "sharePct": 0.7
+      "sharePct": 0.8
     }
   ],
   "activity": {
@@ -159,5 +159,5 @@
       "event": "init: hello, world"
     }
   ],
-  "updatedAt": "2026-11-18T22:36:04.161Z"
+  "updatedAt": "2026-11-19T22:39:59.348Z"
 }

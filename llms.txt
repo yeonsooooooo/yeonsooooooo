@@ -14,10 +14,10 @@ Based in Seoul, KR. 3,956 commits in the last year across 93 repositories (71 pr
 ## Writing right now (share of this year's commits)
 - TypeScript: 67%
 - JavaScript: 23.1%
-- Kotlin: 2.6%
+- Kotlin: 2.5%
 - Python: 2.3%
 - HTML: 1.2%
-- Java: 0.7%
+- Java: 0.8%
 
 ## Timeline
 - 2026-09: feat(kiosk): 24" vertical kiosk v2 · desktop PMS · sales HQ
