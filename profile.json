@@ -17,20 +17,20 @@
     {
       "layer": "surface",
       "tech": "Next.js dashboards · React Native · SwiftUI · Flutter",
-      "repos": 43,
-      "commitsLastYear": 1380
+      "repos": 46,
+      "commitsLastYear": 1484
     },
     {
       "layer": "core",
       "tech": "NestJS · MySQL · schedulers · payments · PMS",
       "repos": 10,
-      "commitsLastYear": 832
+      "commitsLastYear": 852
     },
     {
       "layer": "edge",
       "tech": "touch kiosks (Electron) · Android agents · RPA",
       "repos": 16,
-      "commitsLastYear": 1724
+      "commitsLastYear": 1738
     },
     {
       "layer": "silicon",
@@ -42,38 +42,38 @@
   "writing": [
     {
       "language": "TypeScript",
-      "sharePct": 67.5
+      "sharePct": 66.5
     },
     {
       "language": "JavaScript",
-      "sharePct": 22.7
+      "sharePct": 23.8
     },
     {
       "language": "Kotlin",
-      "sharePct": 2.5
+      "sharePct": 2.4
     },
     {
       "language": "Python",
-      "sharePct": 2.3
+      "sharePct": 2.2
     },
     {
       "language": "HTML",
       "sharePct": 1.2
     },
     {
-      "language": "Java",
-      "sharePct": 0.7
+      "language": "CSS",
+      "sharePct": 0.8
     }
   ],
   "activity": {
-    "commitsLastYear": 3987,
-    "commitsAllTime": 6608,
-    "activeDaysLastYear": 320,
-    "currentStreakDays": 2,
+    "commitsLastYear": 4125,
+    "commitsAllTime": 6746,
+    "activeDaysLastYear": 323,
+    "currentStreakDays": 23,
     "repositories": {
-      "total": 93,
+      "total": 96,
       "public": 22,
-      "private": 71
+      "private": 74
     },
     "note": "Counts include private repositories; names of private repositories are intentionally omitted."
   },
@@ -159,5 +159,5 @@
       "event": "init: hello, world"
     }
   ],
-  "updatedAt": "2026-11-21T20:54:06.082Z"
+  "updatedAt": "2026-11-22T21:02:31.193Z"
 }
